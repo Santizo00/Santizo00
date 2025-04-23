@@ -1,6 +1,6 @@
-# Santizo00
+# Santizo00 ✌
 
-### 👋 ¡Hola! Soy Axel Omar Santizo
+### 👋 ¡Hola! Soy Axel Santizo 🧑‍💻
 
 Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web, móviles y de escritorio. Apasionado por automatizar procesos y crear soluciones prácticas usando tecnologías modernas como:
 
